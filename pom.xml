@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.gobind.testing</groupId>
-    <artifactId>maven-example</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <groupId>com.techprimers.testing</groupId>
+    <artifactId>jenkins-example</artifactId>
+    <version>1.0-SNAPSHOT</version>
 
 
     <properties>
@@ -58,14 +58,14 @@
     <repositories>
         <repository>
             <id>myMavenRepo.read</id>
-            <url>https://mymavenrepo.com/repo/DFhOV5pI333MvfEQ6zIH/</url>
+            <url>https://mymavenrepo.com/repo/FN8PIshHk5uALNhkXbhs/</url>
         </repository>
     </repositories>
 
     <distributionManagement>
         <repository>
             <id>myMavenRepo.write</id>
-            <url>https://mymavenrepo.com/repo/F4SK2NfNxiiwyEWqieK0/</url>
+            <url>https://mymavenrepo.com/repo/9Q8JoRpymi4UGK8HzbVq/</url>
         </repository>
     </distributionManagement>
 
